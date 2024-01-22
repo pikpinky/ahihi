@@ -1,0 +1,17 @@
+{
+    "settings": {
+        "huntrpg": "true",
+        "banbypass": "true",
+        "type": {
+            "hunt": "rpg hunt h",
+            "work": "rpg dynamite",
+            "farm": "rpg farm"
+        },
+        "cd": "0"
+    },
+
+    "main": {
+        "token": "",
+        "channelid": ""
+    }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "erpg",
+  "version": "1.0.0",
+  "description": "Tool for epic rpg",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GnudMad",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "collect.js": "^4.34.3",
+    "delay": "^5.0.0",
+    "discord-rpc": "^4.0.1",
+    "dotenv": "^16.3.1",
+    "follow-redirects": "^1.15.2",
+    "node-notifier": "^10.0.1",
+    "request": "^2.88.2",
+    "seedrandom": "^3.0.5",
+    "socket.io": "^4.6.2",
+    "socket.io-client": "^4.6.2"
+  }
+}
